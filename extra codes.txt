@@ -1,0 +1,8 @@
+//export default function ContactScreen() {
+//return (
+//<View style={{backgroundColor:'purple', flex: 1, justifyContent: 'center', alignItems: 'center' }}>
+//<Text style={{color:'pink'}}>Settings!</Text>
+//<MyComponent/>
+//</View>
+//);
+//}
